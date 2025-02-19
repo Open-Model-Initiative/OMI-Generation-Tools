@@ -1,6 +1,6 @@
-# Open Model Initiative Data Repository Documentation Makefile
+# Open Model Initiative Generation Tools Makefile
 #
-# This minimal makefile is used to build the Open Model Initiative Data Repository documentation with Sphinx.
+# This minimal makefile is used to build the Open Model Initiative Generation Tools documentation with Sphinx.
 # You can set or override the following variables from the command line or the environment:
 #   SPHINXOPTS, SPHINXBUILD, etc.
 SPHINXOPTS    ?=

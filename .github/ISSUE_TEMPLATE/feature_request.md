@@ -9,8 +9,6 @@ assignees: ''
 
 If applicable, specify the tool or set of tools that this feature request is for.
 
-A clear and concise description of what the problem is. For example, “I wish Open Model Initiative Data Repository could do [X] because [Y].”
-
 ### Describe the solution you'd like
 
 A clear and concise description of what you want to happen. Describe the feature, how it should work, and any user interactions involved.

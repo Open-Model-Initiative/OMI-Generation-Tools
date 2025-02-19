@@ -5,9 +5,7 @@
 
 pushd %~dp0
 
-REM Command file for building Open Model Initiative Data Repository documentation with Sphinx
-
-if "%SPHINXBUILD%" == "" (
+REM Command file for building Open Model Initiative Generation Tools documentation with Sphinx
 	set SPHINXBUILD=sphinx-build
 )
 set SOURCEDIR=.

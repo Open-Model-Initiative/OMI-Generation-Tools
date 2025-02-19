@@ -9,10 +9,8 @@
 # -----------------------------------------------------------------------------
 
 # -- Project information -----------------------------------------------------
-project = "Open Model Intitiative - Data Repository"
-copyright = "2025, Open Model Intitiative Contributors"
-author = "Open Model Intitiative"
-release = "0.1"
+project = "Open Model Intitiative - Generation Tools"
+copyright = "2025, Open Model Intitiative"
 
 # -- General configuration ---------------------------------------------------
 extensions = ["myst_parser"]
