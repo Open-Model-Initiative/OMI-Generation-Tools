@@ -55,6 +55,16 @@ For reporting security vulnerabilities, use the security issue template. Include
 - Impact assessment
 - Any suggested fixes
 
+New Tool Proposals
+----------------
+For proposing new generation tools to add to the repository, use the new tool proposal template. Include:
+
+- Tool description and purpose
+- Implementation plan (core functionality, dependencies, integration)
+- Documentation requirements (README.md, technical docs, examples)
+- Testing strategy
+- Additional context or screenshots
+
 Support Requests
 --------------
 If you need help using the software, use the support request template. Include:
@@ -83,6 +93,8 @@ For issues related to continuous integration or deployment, use the CI/CD templa
 - Expected behavior
 - Build logs if relevant
 - Proposed changes
+
+
 
 Best Practices
 =============

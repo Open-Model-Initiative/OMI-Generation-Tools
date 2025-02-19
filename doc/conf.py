@@ -5,7 +5,6 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 #
 # SPDX-License-Identifier: Apache-2.0
-# graphcap.module.doc.conf.py
 # -----------------------------------------------------------------------------
 
 # -- Project information -----------------------------------------------------
