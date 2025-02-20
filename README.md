@@ -6,12 +6,6 @@ Welcome to the Open Model Initiative Generation Tools repository!
 
 This repository serves as a home for various generation tools and experiments that support the Open Model Initiative's model and data missions. It provides a collection of utilities and cookbooks for specialized data generation tasks.
 
-## Current Tools
-
-### HDR SDXL
-
-A tool for generating HDR images by processing SDXL outputs at various exposure levels. [Learn more](./hdr_sdxl/README.md)
-
 ## About the Project
 
 The Generation Tools repository is designed to be an experimental workspace for developing and sharing specialized data generation utilities. These tools complement our broader data curation and model development efforts, providing focused solution's for specific use cases.
